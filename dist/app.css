@@ -1,0 +1,27 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+p.test {
+  background-color: blue;
+}
+
+p {
+  background-color: red;
+}
+
+button {
+  background-color: blue;
+}
+
+button#special {
+  background-color: red;
+}

@@ -1,0 +1,30 @@
+$primary_color: blue;
+$secondary_color: red;
+
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: $primary_color;
+}
+
+h3 {
+  color: $secondary_color;
+}
+
+p.test {
+  background-color: $primary_color;
+}
+
+p {
+  background-color: $secondary_color;
+}
+
+button {
+  background-color: $primary_color;
+}
+
+button#special {
+  background-color: $secondary_color;
+}
